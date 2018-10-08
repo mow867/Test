@@ -1,0 +1,49 @@
+
+OBM		Original Brand Manufacturer
+ODM		Original Design Manufacturer	原始設計製造商	委託開發製造
+DPU		Defects Per Unit
+LRR		Line Reject Rate
+
+NPE		New Product Evaluation
+PTU		Product Technology Upgrade
+OTU		Operation Technology Upgrade
+ATU		Application Technology Upgrade
+CTU		Component Technology Upgrade		供應商品質
+NTU		Non Touch Up						不需手工修補(焊接等)
+
+FIR		Field Incident Rate
+NDF		No Defect Found				無法看到問題
+CND		Can Not Duplicated			無法複製問題
+FPYR	First Pass Yield Rate	
+
+SPI		Solder Paste Inspection		Schedule Performance Index		Serial Peripheral Interface
+B/I		Burn In Test
+ICT		In-Circuit Tester
+AOI		Automated Optical Inspection
+
+
+TQA		Total Quality Assurance
+DQA		Design Quality Assurance
+MQA		Manufacturing Quality Assurance
+VQA		Vendor Quality Assurance
+SQA		Service Quality Assurance
+FQA		Field Quality Assurance		出貨到場域端安裝驗收之前
+
+CTQ		Critical to Quality
+VLRR	Verified Line Reject Rate
+SLRR	Supplier Line Reject Rate
+SIRR	Supplier Incoming Reject Rate
+
+EVT		Engineering Verification Test	Company Event Related Agreement
+DVT		Design Verification Test
+PVT		Production Verification Test
+
+ECN		Engineering Change Notice
+PCN		Process Change Notification
+SCP		Software Common Platform		軟體共同平台管理部
+SCPT	Standard Configuration Property Type
+
+CI		Configuration Item
+CR		Change Request
+CSA		Configuration Status Accounting
+WBS		Work Breakdown Structure
